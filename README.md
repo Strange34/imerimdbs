@@ -14,7 +14,7 @@
 
 
 ## Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/PrinceStarLord/imerimdb">
+<a href="https://heroku.com/deploy?template=https://github.com/Strange34/imerimdbs">
 
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
@@ -30,7 +30,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Strange34/imerimdbs
+git clone https://github.com/PrinceStarLord/imerimdb
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
